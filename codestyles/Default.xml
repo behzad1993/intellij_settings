@@ -1,0 +1,21 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="160" />
+  <XML>
+    <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
+  </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

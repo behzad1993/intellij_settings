@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="@a" value="@author - Behzad Karimi" description="@author - Behzad Karimi" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
